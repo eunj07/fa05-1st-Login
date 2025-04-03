@@ -1,7 +1,9 @@
 # fa05-1st-Login
 KPMG_future_academy05_login 첫 번째 프로젝트
-![대표페이지](page.jpg)
-![커리어패스 서비스](careerpath.jpg)
+
+![대표페이지](images/page.jpg)
+
+![커리어패스 서비스](images/careerpath.jpg)
 -----------------
 
 # 프로젝트 기획서
